@@ -1,7 +1,7 @@
 {
   "name": "delictionary",
   "private": true,
-  "homepage": "http://d-man1212.github.io/Delictionary",
+  "homepage": "/Delictionary",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
