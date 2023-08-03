@@ -12,7 +12,7 @@ lerna-debug.log*
 .env.production.local
 
 node_modules/
-
+build/
 dist/
 dist-ssr/
 
@@ -25,7 +25,7 @@ firebase.json
 
 .vscode/*
 !.vscode/extensions.json
-.idea
+.idea/
 .DS_Store
 
 *.suo
@@ -33,5 +33,5 @@ firebase.json
 *.njsproj
 *.sln
 *.sw?
-
+package-lock.json
 *.local
