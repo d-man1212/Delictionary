@@ -33,5 +33,11 @@ firebase.json
 *.njsproj
 *.sln
 *.sw?
-package-lock.json
+
 *.local
+
+package-lock.json
+yarn.lock
+
+.eslintrc.cjs
+vite.config.js
