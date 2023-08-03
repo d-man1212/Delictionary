@@ -23,7 +23,7 @@ export default function ProfileWindow() {
     setIsPasswordChanged(false);
     if (!validatePassword(newPassword)) {
       showErrorPopup(
-        "Password must be at least 8 characters long and contain at least one uppercase letter, one lowercase letter, and one number.",
+        "Password must be at least 8 characters long and contain at least one uppercase letter, one symbol, one lowercase letter, and one number.",
         "Password Change Failure",
         "Invalid password format."
       );

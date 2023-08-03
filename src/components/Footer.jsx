@@ -8,7 +8,6 @@ import urlConfig from "../../url.config";
 
 export default function Footer() {
   const navigate = useNavigate();
-  console.log(urlConfig);
   return (
     <div className="footer">
       <div className="footer-social">
