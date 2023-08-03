@@ -36,8 +36,6 @@ firebase.json
 
 *.local
 
-package-lock.json
 yarn.lock
 
 .eslintrc.cjs
-vite.config.js

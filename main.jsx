@@ -12,7 +12,7 @@ import { AuthProvider } from "./src/Contexts/AuthContext";
 ReactDOM.render(
   <React.StrictMode>
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename="/Delictionary/">
         <AuthProvider>
           <Routes>
             <Route path="/" element={<Landing />} />
