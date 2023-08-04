@@ -101,3 +101,14 @@ Start the server
 ```
 
 The app will be available at `http://localhost:5713`.
+
+
+## ✨ Future Plans
+
+- **Save Recipes:** Implement user profiles where users can save their favorite recipes, create collections, and share their cooking journey with others.
+
+- **Advanced Search Filters:** Enhance the recipe search functionality with advanced filters such as dietary preferences, cuisine type, cooking time, and more.
+
+- **Social Sharing:** Enable social sharing of recipes, making it easy for users to share their favorite dishes with friends and family.
+  
+- **Responsive Design:** There are plans to make the web application responsive to ensure it works well on various devices, including mobile phones and tablets. 
